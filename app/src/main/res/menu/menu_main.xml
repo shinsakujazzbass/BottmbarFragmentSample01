@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/Bottombaritemone"
+    android:icon="@drawable/ic_action_home"
+    android:title="Home">
+    </item>
+
+    <item android:id="@+id/Bottombaritemtwo"
+        android:icon="@drawable/ic_action_book"
+        android:title="ANote">
+    </item>
+
+    <item android:id="@+id/BottombaritemThree"
+        android:icon="@drawable/ic_action_camera"
+        android:title="Camera">
+    </item>
+
+    <item android:id="@+id/Bottombaritemfour"
+        android:icon="@drawable/ic_action_mail"
+        android:title="Email">
+    </item>
+
+    <item android:id="@+id/Bottombaritemfive"
+        android:icon="@drawable/ic_settings"
+        android:title="Setting">
+    </item>
+
+</menu>
